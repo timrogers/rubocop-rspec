@@ -3,6 +3,7 @@
 ## Master (Unreleased)
 
 * Improved `RSpec/ReturnFromStub` to handle string interpolation, hashes and do..end blocks. ([@Darhazer][])
+* Added `RSpec/ContainExactly` and `RSpec/MatchArray` cops. ([@faucct][])
 
 ## 1.17.0 (2017-09-14)
 
@@ -244,3 +245,4 @@
 [@jonatas]: https://github.com/jonatas
 [@pocke]: https://github.com/pocke
 [@bmorrall]: https:/github.com/bmorrall
+[@faucct]: https:/github.com/faucct
